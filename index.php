@@ -11,8 +11,8 @@
 <body>
 
 <?php
+$ac[] = "<div id=\"text\" style='text-align: center;'>"Olá David e Daiane!"</div>";
 
-echo "Olá David e Daiane!";
    ?>
 
   </body>
