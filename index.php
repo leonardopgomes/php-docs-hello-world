@@ -1,18 +1,8 @@
-<html>
-<head>
-<title>Titulo</title>
-<style type="text/css">
-#text {
-   color:#COR 00;
-   font-size: 34px;
-}
-</style>
-</head>
-<body>
+<h1>
+   
 <?php
 
 echo "Olá David e Daiane!"
 ?>
-  
-  </body>
-</html>
+
+</h1>
